@@ -6,18 +6,18 @@ IT companies.
 
 ## 📚 Roadmap
 
-- [x] DBMS Basics
-- [x] SQL Command Types (DDL, DML, DQL, DCL, TCL)
-- [x] Creating & Managing Databases (CREATE, ALTER, DROP, TRUNCATE)
-- [ ] Keys & Constraints
-- [x] INSERT, UPDATE, DELETE
-- [ ] SELECT & WHERE (filtering, LIKE, IN, BETWEEN, ORDER BY)
-- [ ] Aggregate Functions & GROUP BY / HAVING
-- [ ] JOINs (INNER, LEFT, RIGHT, SELF)
-- [ ] Subqueries
-- [ ] Normalization (1NF, 2NF, 3NF, BCNF)
-- [ ] Transactions & ACID
-- [ ] LeetCode SQL Practice
+- DBMS Basics
+- SQL Command Types (DDL, DML, DQL, DCL, TCL)
+- Creating & Managing Databases (CREATE, ALTER, DROP, TRUNCATE)
+- Keys & Constraints
+- INSERT, UPDATE, DELETE
+- SELECT & WHERE (filtering, LIKE, IN, BETWEEN, ORDER BY)
+- Aggregate Functions & GROUP BY / HAVING
+- JOINs (INNER, LEFT, RIGHT, SELF)
+- Subqueries
+- Normalization (1NF, 2NF, 3NF, BCNF)
+- Transactions & ACID
+- LeetCode SQL Practice
 
 ## 🛠️ Tools
 - MySQL 8
