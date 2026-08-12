@@ -1,4 +1,4 @@
-# SQL Placement Prep
+# SQL Prep
 
 Structured SQL/MySQL practice for placement interviews — DDL, DML, joins, 
 subqueries, and query-solving exercises for TCS, Infosys, Wipro, and other 
