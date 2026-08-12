@@ -1,8 +1,7 @@
 # SQL Prep
 
-Structured SQL/MySQL practice for placement interviews — DDL, DML, joins, 
-subqueries, and query-solving exercises for TCS, Infosys, Wipro, and other 
-IT companies.
+Structured SQL/MySQL practice — DDL, DML, joins, 
+subqueries, and query-solving exercises.
 
 ## 📚 Roadmap
 
