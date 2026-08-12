@@ -1,0 +1,3 @@
+-- 1757. Recyclable and Low Fat Products
+   -- Difficulty: Easy
+   -- Solution to be added
